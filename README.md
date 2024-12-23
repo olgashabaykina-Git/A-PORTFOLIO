@@ -31,14 +31,16 @@ This project sets up:
    ```bash
    git clone https://github.com/olgashabaykina-Git/A-PORTFOLIO.git
    cd aws-hello-world
+    ```
 2. **Initialize Terraform**:
 ```bash
 terraform init
+ ```
 
 3. **Apply the Terraform Configuration**:
 ```bash
 terraform apply
-
+ ```
 Review the plan and type yes to confirm.
 4.**Access the Website: After deployment, the output will display the CloudFront URL. Visit the URL in your browser to see static website**.
 
@@ -58,7 +60,7 @@ Outputs the CloudFront distribution URL to access the deployed website.
 ## Clean Up
 ```bash
 terraform destroy
-
+ ```
 
 
 
