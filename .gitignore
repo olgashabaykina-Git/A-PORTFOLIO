@@ -1,0 +1,4 @@
+# Excluding Terraform State Files
+*.tfstate
+*.tfstate.*
+.terraform/
