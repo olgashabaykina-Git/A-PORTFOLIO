@@ -42,6 +42,7 @@ terraform init
 terraform apply
  ```
 Review the plan and type yes to confirm.
+
 4.**Access the Website: After deployment, the output will display the CloudFront URL. Visit the URL in your browser to see static website**.
 
 ## Key Resources
